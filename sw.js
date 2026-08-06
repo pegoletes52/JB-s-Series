@@ -3,7 +3,7 @@
 // Solo sube la versión de CACHE_NAME si quieres forzar que el móvil
 // descargue la nueva versión inmediatamente (opcional).
 
-const CACHE_NAME = 'jbs-series-v1';
+const CACHE_NAME = 'jbs-series-v2';
 const ASSETS = [
   './index.html',
   './manifest.json',
